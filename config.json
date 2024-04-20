@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Develop By Quillone",
+        "GUILD_ID": "1090524616780427264",
+        "VOICE_CHANNEL": "1090532846088761427",
+        "MIN_STAFF_ROLE": "1090580086547288175"
+    },
+    "FILES": {
+        "WELCOME": "welcome.mp3",
+        "STAFF": "staff.mp3"
+    },
+    "TOKEN": "MTIwNDM3NjIwMTIwOTE5MjQ5OA.G7H-3r.dMgNBfgV4SdJydX4M2tDu60_7MKxR36j4HpiC4"
+}
